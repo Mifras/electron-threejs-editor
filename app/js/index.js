@@ -46,6 +46,7 @@ export { Menubar } from './Menubar.js'
 // Side bar
 import './Sidebar.Animation.js'
 import './Sidebar.History.js'
+import './Sidebar.Interactions.js'
 import './Sidebar.Material.js'
 import './Sidebar.Object.js'
 import './Sidebar.Project.js'
